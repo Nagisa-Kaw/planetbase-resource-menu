@@ -1,3 +1,4 @@
-bin/
-obj/
-dist/
+**/bin/
+**/obj/
+**/dist/
+.verificacion/

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+    <Version>1.0.0</Version>
+    <GameManagedDir>$(PlanetbaseDir)\Planetbase_Data\Managed</GameManagedDir>
+    <BepInExCoreDir Condition="'$(BepInExCoreDir)' == ''">$(PlanetbaseDir)\BepInEx\core</BepInExCoreDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp" HintPath="$(GameManagedDir)\Assembly-CSharp.dll" Private="false" />
+    <Reference Include="UnityEngine" HintPath="$(GameManagedDir)\UnityEngine.dll" Private="false" />
+    <Reference Include="UnityEngine.CoreModule" HintPath="$(GameManagedDir)\UnityEngine.CoreModule.dll" Private="false" />
+    <Reference Include="UnityEngine.IMGUIModule" HintPath="$(GameManagedDir)\UnityEngine.IMGUIModule.dll" Private="false" />
+    <Reference Include="UnityEngine.InputLegacyModule" HintPath="$(GameManagedDir)\UnityEngine.InputLegacyModule.dll" Private="false" />
+    <Reference Include="UnityEngine.PhysicsModule" HintPath="$(GameManagedDir)\UnityEngine.PhysicsModule.dll" Private="false" />
+    <Reference Include="BepInEx" HintPath="$(BepInExCoreDir)\BepInEx.dll" Private="false" />
+    <Reference Include="0Harmony" HintPath="$(BepInExCoreDir)\0Harmony.dll" Private="false" />
+  </ItemGroup>
+  <Target Name="CheckGameReferences" BeforeTargets="ResolveAssemblyReferences">
+    <Error Condition="'$(PlanetbaseDir)' == '' Or !Exists('$(GameManagedDir)\Assembly-CSharp.dll')" Text="Indica la carpeta de Planetbase con -p:PlanetbaseDir=RUTA." />
+    <Error Condition="!Exists('$(BepInExCoreDir)\BepInEx.dll') Or !Exists('$(BepInExCoreDir)\0Harmony.dll')" Text="Instala BepInEx 5 o indica su carpeta core con -p:BepInExCoreDir=RUTA." />
+  </Target>
+</Project>
