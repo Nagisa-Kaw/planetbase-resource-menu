@@ -1,0 +1,184 @@
+[Message:   BepInEx] BepInEx 5.4.23.6 - Planetbase (06/07/2026 09:48:44 a. m.)
+[Info   :   BepInEx] Running under Unity v2022.3.62.7762112
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.6]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 7 plugins to load
+[Info   :   BepInEx] Loading [Ocio colonial 1.2.0]
+[Info   :Ocio colonial] Ocio colonial listo. Cuatro edificios nuevos en Construir interior.
+[Info   :   BepInEx] Loading [Energía nuclear y transporte 1.2.0]
+[Info   :Energía nuclear y transporte] Expansión lista: reactor, refrigeración, taller de combustible y garaje de rovers.
+[Info   :   BepInEx] Loading [Frontera Solar 0.3.0]
+[Info   :Frontera Solar] Frontera Solar 0.3.0 lista. F9: gestión; F6: capas de escaneo.
+[Info   :   BepInEx] Loading [Colonias en expansión · alfa 0.1.0]
+[Info   :Colonias en expansión · alfa] Colonias en expansión 0.1.0 alfa lista. F10: seis módulos de gestión.
+[Info   :   BepInEx] Loading [Menú de recursos 1.0.0]
+[Info   :Menú de recursos] Menú de recursos listo. Pulsa F8 durante una partida.
+[Info   :   BepInEx] Loading [Solar Frontier QA 0.1.0]
+[Info   :   BepInEx] Loading [Terreno y velocidad 1.0.0]
+[Info   :Terreno y velocidad] Terreno y velocidad listo. Ctrl+F7 selecciona una zona. Velocidad máxima x8.
+[Message:   BepInEx] Chainloader startup complete
+[Info   :Solar Frontier QA] PASS 1: isolated QA profile
+[Info   :Solar Frontier QA] PASS 2: offline achievements
+[Info   :Solar Frontier QA] PASS 3: four worlds appended
+[Info   :Solar Frontier QA] PASS 4: original world indices retained
+[Info   :Solar Frontier QA] PASS 5: native selector creates eight planets
+[Info   :Solar Frontier QA] PASS 6: previous fuel index preserved
+[Info   :Solar Frontier QA] PASS 7: three new native specializations
+[Info   :Solar Frontier QA] PASS 8: fusion starts locked
+[Info   :Solar Frontier QA] PASS 9: localized type ModuleTypeSurveyLab
+[Info   :Solar Frontier QA] PASS 10: native placement ModuleTypeSurveyLab
+[Info   :Solar Frontier QA] PASS 11: native construction Laboratorio de investigación
+[Info   :Solar Frontier QA] PASS 12: native connection Laboratorio de investigación
+[Info   :Solar Frontier QA] PASS 13: native construction Conexión
+[Info   :Solar Frontier QA] PASS 14: localized type ModuleTypeAssemblyWorks
+[Info   :Solar Frontier QA] PASS 15: native placement ModuleTypeAssemblyWorks
+[Info   :Solar Frontier QA] PASS 16: native construction Planta de ensamblaje
+[Info   :Solar Frontier QA] PASS 17: native connection Planta de ensamblaje
+[Info   :Solar Frontier QA] PASS 18: native construction Conexión
+[Info   :Solar Frontier QA] PASS 19: native furnishing placement ResearchDesk
+[Info   :Solar Frontier QA] PASS 20: native construction Mesa de investigación
+[Info   :Solar Frontier QA] PASS 21: engineer manufactures two physical research reports
+[Info   :Solar Frontier QA] PASS 22: local research consumes reports once
+[Info   :Solar Frontier QA] PASS 23: survey research completed
+[Info   :Solar Frontier QA] PASS 24: local research stops on power cut
+[Info   :Solar Frontier QA] PASS 25: geothermal branch unlocked
+[Info   :Solar Frontier QA] PASS 26: recycling branch unlocked
+[Info   :Solar Frontier QA] PASS 27: robotics prerequisite branch unlocked
+[Info   :Solar Frontier QA] PASS 28: Earth blueprints charge once
+[Info   :Solar Frontier QA] PASS 29: Earth shielding delivered
+[Info   :Solar Frontier QA] PASS 30: fusion requires both completed branches
+[Info   :Solar Frontier QA] PASS 31: localized type ModuleTypeTreatmentPlant
+[Info   :Solar Frontier QA] PASS 32: native placement ModuleTypeTreatmentPlant
+[Info   :Solar Frontier QA] PASS 33: native construction Planta de tratamiento
+[Info   :Solar Frontier QA] PASS 34: native connection Planta de tratamiento
+[Info   :Solar Frontier QA] PASS 35: native construction Conexión
+[Info   :Solar Frontier QA] PASS 36: localized type ModuleTypeSolarGreenhouse
+[Info   :Solar Frontier QA] PASS 37: native placement ModuleTypeSolarGreenhouse
+[Info   :Solar Frontier QA] PASS 38: native construction Invernadero avanzado
+[Info   :Solar Frontier QA] PASS 39: native connection Invernadero avanzado
+[Info   :Solar Frontier QA] PASS 40: native construction Conexión
+[Info   :Solar Frontier QA] PASS 41: localized type ModuleTypeTunnelGallery
+[Info   :Solar Frontier QA] PASS 42: native placement ModuleTypeTunnelGallery
+[Info   :Solar Frontier QA] PASS 43: native construction Galería blindada
+[Info   :Solar Frontier QA] PASS 44: native connection Galería blindada
+[Info   :Solar Frontier QA] PASS 45: native construction Conexión
+[Info   :Solar Frontier QA] PASS 46: localized type ModuleTypeFusionPlant
+[Info   :Solar Frontier QA] PASS 47: native placement ModuleTypeFusionPlant
+[Info   :Solar Frontier QA] PASS 48: native construction Central de fusión
+[Info   :Solar Frontier QA] PASS 49: native connection Central de fusión
+[Info   :Solar Frontier QA] PASS 50: native construction Conexión
+[Info   :Solar Frontier QA] PASS 51: localized type ModuleTypeRegolithDrill
+[Info   :Solar Frontier QA] PASS 52: native placement ModuleTypeRegolithDrill
+[Info   :Solar Frontier QA] PASS 53: native construction Extractor de regolito
+[Info   :Solar Frontier QA] PASS 54: native connection Extractor de regolito
+[Info   :Solar Frontier QA] PASS 55: native construction Conexión
+[Info   :Solar Frontier QA] PASS 56: localized type ModuleTypeRadiationPylon
+[Info   :Solar Frontier QA] PASS 57: native placement ModuleTypeRadiationPylon
+[Info   :Solar Frontier QA] PASS 58: native construction Pilón antirradiación
+[Info   :Solar Frontier QA] PASS 59: native connection Pilón antirradiación
+[Info   :Solar Frontier QA] PASS 60: native construction Conexión
+[Info   :Solar Frontier QA] PASS 61: geothermal candidate exists
+[Info   :Solar Frontier QA] PASS 62: localized type ModuleTypeGeothermalPlant
+[Info   :Solar Frontier QA] PASS 63: native placement ModuleTypeGeothermalPlant
+[Info   :Solar Frontier QA] PASS 64: native construction Planta geotérmica
+[Info   :Solar Frontier QA] PASS 65: native connection Planta geotérmica
+[Info   :Solar Frontier QA] PASS 66: native construction Conexión
+[Info   :Solar Frontier QA] PASS 67: geothermal output follows surveyed heat
+[Info   :Solar Frontier QA] PASS 68: native furnishing placement PartsWorkshop
+[Info   :Solar Frontier QA] PASS 69: native construction Taller de piezas
+[Info   :Solar Frontier QA] PASS 70: native furnishing placement ChassisBench
+[Info   :Solar Frontier QA] PASS 71: native construction Banco de chasis
+[Info   :Solar Frontier QA] PASS 72: native furnishing placement AdvancedAssembler
+[Info   :Solar Frontier QA] PASS 73: native construction Ensamblador avanzado
+[Info   :Solar Frontier QA] PASS 74: native furnishing placement FusionRefinery
+[Info   :Solar Frontier QA] PASS 75: native construction Refinería de cápsulas
+[Info   :Solar Frontier QA] PASS 76: native furnishing placement RegolithProcessor
+[Info   :Solar Frontier QA] PASS 77: native construction Procesador de regolito
+[Info   :Solar Frontier QA] PASS 78: fixture input capacity Taller de piezas
+[Info   :Solar Frontier QA] PASS 79: fixture input capacity Taller de piezas
+[Info   :Solar Frontier QA] PASS 80: parts manufacturing consumes inputs
+[Info   :Solar Frontier QA] PASS 81: fixture input capacity Banco de chasis
+[Info   :Solar Frontier QA] PASS 82: fixture input capacity Banco de chasis
+[Info   :Solar Frontier QA] PASS 83: chassis manufacturing
+[Info   :Solar Frontier QA] PASS 84: transfer manufactured Piezas mecánicas
+[Info   :Solar Frontier QA] PASS 85: transfer manufactured Chasis de vehículo
+[Info   :Solar Frontier QA] PASS 86: fixture input capacity Ensamblador avanzado
+[Info   :Solar Frontier QA] PASS 87: Scout Drone assembled from actual manufactured parts
+[Info   :Solar Frontier QA] PASS 88: assembly consumed all three inputs
+[Info   :Solar Frontier QA] PASS 89: fixture input capacity Ensamblador avanzado
+[Info   :Solar Frontier QA] PASS 90: fixture input capacity Ensamblador avanzado
+[Info   :Solar Frontier QA] PASS 91: fixture input capacity Ensamblador avanzado
+[Info   :Solar Frontier QA] PASS 92: cargo truck native assembly alternative
+[Info   :Solar Frontier QA] PASS 93: fixture input capacity Ensamblador avanzado
+[Info   :Solar Frontier QA] PASS 94: fixture input capacity Ensamblador avanzado
+[Info   :Solar Frontier QA] PASS 95: fixture input capacity Ensamblador avanzado
+[Info   :Solar Frontier QA] PASS 96: scanner bot native assembly alternative
+[Info   :Solar Frontier QA] PASS 97: fixture input capacity Refinería de cápsulas
+[Info   :Solar Frontier QA] PASS 98: fixture input capacity Refinería de cápsulas
+[Info   :Solar Frontier QA] PASS 99: fusion burns manufactured capsule
+[Info   :Solar Frontier QA] PASS 100: fusion fuel advances with simulation
+[Info   :Solar Frontier QA] PASS 101: fusion water interlock preserves remaining fuel
+[Info   :Solar Frontier QA] PASS 102: native construction Almacén
+[Info   :Solar Frontier QA] PASS 103: native connection Almacén
+[Info   :Solar Frontier QA] PASS 104: native construction Conexión
+[Info   :Solar Frontier QA] PASS 105: capsule stored through native warehouse slots
+[Info   :Solar Frontier QA] PASS 106: fusion refuels from connected native warehouse without duplicating capsule
+[Info   :Solar Frontier QA] PASS 107: surface regolith extraction
+[Info   :Solar Frontier QA] PASS 108: fixture input capacity Procesador de regolito
+[Info   :Solar Frontier QA] PASS 109: regolith to native ore
+[Info   :Solar Frontier QA] PASS 110: native furnishing placement SanitaryUnit
+[Info   :Solar Frontier QA] PASS 111: native construction Unidad sanitaria
+[Info   :Solar Frontier QA] PASS 112: native furnishing placement WasteReprocessor
+[Info   :Solar Frontier QA] PASS 113: native construction Recicladora orgánica
+[Info   :Solar Frontier QA] PASS 114: sanitary visit produces waste once
+[Info   :Solar Frontier QA] PASS 115: fixture input capacity Recicladora orgánica
+[Info   :Solar Frontier QA] PASS 116: waste becomes fertilizer
+[Info   :Solar Frontier QA] PASS 117: native furnishing placement NutrientHopper
+[Info   :Solar Frontier QA] PASS 118: native construction Depósito de fertilizante
+[Info   :Solar Frontier QA] PASS 119: native furnishing placement TissueSynthesizer
+[Info   :Solar Frontier QA] PASS 120: native construction Sintetizador de Tejidos
+[Info   :Solar Frontier QA] PASS 121: transfer manufactured Fertilizante
+[Info   :Solar Frontier QA] PASS 122: greenhouse consumes fertilizer into timed buff
+[Info   :Solar Frontier QA] PASS 123: fertilizer consumed exactly once
+[Info   :Solar Frontier QA] PASS 124: fertilizer increases actual native food production by 25 percent
+[Info   :Solar Frontier QA] Manual QA: start color 0, end color 0, interactions False, flee False
+[Info   :Solar Frontier QA] PASS 125: manual colonist move accepted
+[Info   :Solar Frontier QA] PASS 126: manual colonist follows real path
+[Info   :Solar Frontier QA] PASS 127: manual scan accepted
+[Info   :Solar Frontier QA] PASS 128: scan discovers actual heat and regolith field
+[Info   :Solar Frontier QA] PASS 129: native carrier accepts micro control
+[Info   :Solar Frontier QA] PASS 130: vehicle accepts micro control with real cargo
+[Info   :Solar Frontier QA] PASS 131: vehicle movement preserves cargo
+[Info   :Solar Frontier QA] PASS 132: indoor scout routes through native airlock
+[Info   :Solar Frontier QA] PASS 133: scout exits airlock and completes exterior survey through native navigation
+[Info   :Solar Frontier QA] PASS 134: powered pylon blocks Europa radiation
+[Info   :Solar Frontier QA] PASS 135: Europa exposure accumulates without shielding
+[Info   :Solar Frontier QA] PASS 136: shielding reduces accumulated dose
+[Info   :Solar Frontier QA] PASS 137: pylon integrates with native solar flare protection
+[Info   :Solar Frontier QA] PASS 138: native solar flare causes no damage inside powered shield
+[Info   :Solar Frontier QA] PASS 139: native solar flare damages unshielded colonist
+[Info   :Solar Frontier QA] PASS 140: optional raider spawns native hostile unit on reachable terrain
+[Info   :Solar Frontier QA] SOLAR QA mechanics passed. Saving [QA]\profile/Saves/save40.sav
+[Info   :Solar Frontier QA] PASS 141: custom colony state serialized
+[Info   :Solar Frontier QA] PASS 142: Earth project survives reload without restart
+[Info   :Solar Frontier QA] PASS 143: native acquired techs persist
+[Info   :Solar Frontier QA] PASS 144: optional raid settings persist
+[Info   :Solar Frontier QA] PASS 145: survey coverage persists
+[Info   :Solar Frontier QA] PASS 146: no reports duplicated on reload
+[Info   :Solar Frontier QA] PASS 147: fusion remaining fuel persists exactly
+[Info   :Solar Frontier QA] PASS 148: manual hold survives reload
+[Info   :Solar Frontier QA] PASS 149: radiation exposure persists
+[Info   :Solar Frontier QA] PASS 150: resuming sanitary visit does not duplicate waste
+[Info   :Solar Frontier QA] PASS 151: Earth delivery completes after reload
+[Info   :Solar Frontier QA] PASS 152: all nine structures persist
+[Info   :Solar Frontier QA] PASS 153: manufactured vehicles persist once
+[Info   :Solar Frontier QA] PASS 154: native F9 management window
+[Info   :Solar Frontier QA] SOLAR QA PASSED: 154 checks; research, industry, units, scanning, radiation, save/reload.

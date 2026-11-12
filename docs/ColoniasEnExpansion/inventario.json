@@ -1,0 +1,298 @@
+[
+  {
+    "id": "ModuleTypeSecurityCommand",
+    "nombre": "Centro de seguridad",
+    "nota": "Instala una consola de seguridad. F10 organiza patrullas y alertas; el guardia de consola conserva su trabajo nativo.",
+    "grupo": "Defensa",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeSecurityCommand.png"
+  },
+  {
+    "id": "ModuleTypeSurveillanceRadar",
+    "nombre": "Radar de vigilancia",
+    "nota": "Detecta intrusos exteriores a 140 m y avisa una vez por intruso. Necesita energía.",
+    "grupo": "Defensa",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeSurveillanceRadar.png"
+  },
+  {
+    "id": "ModuleTypeDefenseTurret",
+    "nombre": "Torre defensiva",
+    "nota": "Dispara a intrusos exteriores a 50 m sin obstáculos del terreno. Consume energía y un repuesto por 20 disparos. Requiere centro de seguridad operativo.",
+    "grupo": "Defensa",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeDefenseTurret.png"
+  },
+  {
+    "id": "ModuleTypePatrolDepot",
+    "nombre": "Puesto de patrulla",
+    "nota": "Despliega un vehículo de patrulla para un guardia asignado desde F10. El guardia usa rutas alcanzables y deja la patrulla ante necesidades críticas.",
+    "grupo": "Defensa",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypePatrolDepot.png"
+  },
+  {
+    "id": "ModuleTypeLogisticsHub",
+    "nombre": "Centro de distribución",
+    "nota": "Consolas, empaquetadoras y ensambladores. F10 configura rutas entre almacenes para transportadores de hasta tres cajas.",
+    "grupo": "Logística",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeLogisticsHub.png"
+  },
+  {
+    "id": "ModuleTypeFreightWarehouse",
+    "nombre": "Almacén logístico",
+    "nota": "Almacén nativo de dos tamaños. Puede ser origen o destino de rutas; admite los mismos recursos físicos que un almacén normal.",
+    "grupo": "Logística",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeFreightWarehouse.png"
+  },
+  {
+    "id": "ModuleTypeExpeditionCenter",
+    "nombre": "Centro de expediciones",
+    "nota": "Localiza señales en terreno alcanzable. Envía una unidad desde F10 y analiza las muestras encontradas.",
+    "grupo": "Exploración",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeExpeditionCenter.png"
+  },
+  {
+    "id": "ModuleTypeExpeditionBeacon",
+    "nombre": "Baliza de expedición",
+    "nota": "Amplía a 300 m el radio de búsqueda de señales al cartografiar por primera vez. Necesita energía.",
+    "grupo": "Exploración",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeExpeditionBeacon.png"
+  },
+  {
+    "id": "ModuleTypeEmergencyHospital",
+    "nombre": "Hospital de emergencia",
+    "nota": "Camas de trauma y medicinas para la atención nativa por médicos. Las ambulancias llevan aquí a heridos exteriores.",
+    "grupo": "Rescate",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeEmergencyHospital.png"
+  },
+  {
+    "id": "ModuleTypeRescueHangar",
+    "nombre": "Hangar de rescate",
+    "nota": "Habilita ambulancias autónomas a 180 m. Fabrícalas en el centro de distribución.",
+    "grupo": "Rescate",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeRescueHangar.png"
+  },
+  {
+    "id": "ModuleTypeEmergencyShelter",
+    "nombre": "Refugio de emergencia",
+    "nota": "Sala presurizada de evacuación con bancos, agua y camas. La evacuación respeta corredores y esclusas.",
+    "grupo": "Rescate",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeEmergencyShelter.png"
+  },
+  {
+    "id": "ModuleTypePrivateResidence",
+    "nombre": "Residencias privadas",
+    "nota": "Camas individuales que recuperan descanso y moral mediante las reglas normales de sueño.",
+    "grupo": "Vida colonial",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypePrivateResidence.png"
+  },
+  {
+    "id": "ModuleTypeAcademy",
+    "nombre": "Academia colonial",
+    "nota": "Forma al colono seleccionado para otra profesión: 2 informes, 20 créditos y 300 s de estudio. La falta de energía pausa el progreso.",
+    "grupo": "Vida colonial",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeAcademy.png"
+  },
+  {
+    "id": "ModuleTypeCommunityCafe",
+    "nombre": "Cafetería comunitaria",
+    "nota": "Asientos cómodos, comida y bebidas. Los consumos alimentarios conservan las reglas nativas.",
+    "grupo": "Vida colonial",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeCommunityCafe.png"
+  },
+  {
+    "id": "ModuleTypeTradeTerminal",
+    "nombre": "Terminal comercial",
+    "nota": "Contratos e importaciones en F10. Los contratos consumen inventario libre de la misma red y pagan una sola vez tras la expedición.",
+    "grupo": "Comercio",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeTradeTerminal.png"
+  },
+  {
+    "id": "ModuleTypeExportDock",
+    "nombre": "Plataforma logística",
+    "nota": "Plataforma exclusiva para expediciones comerciales e importaciones del mod; no admite visitantes nativos.",
+    "grupo": "Comercio",
+    "tipo": "edificio",
+    "imagen": "evidencia/modelos/ModuleTypeExportDock.png"
+  },
+  {
+    "id": "SecurityDispatch",
+    "nombre": "Consola de seguridad avanzada",
+    "nota": "Puesto de trabajo nativo para un guardia. El centro de seguridad habilita las torres y patrullas.",
+    "grupo": "Defensa",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/SecurityDispatch.png"
+  },
+  {
+    "id": "LogisticsConsole",
+    "nombre": "Consola de distribución",
+    "nota": "Abre F10 para definir origen, destino, material y transportador.",
+    "grupo": "Logística",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/LogisticsConsole.png"
+  },
+  {
+    "id": "VehicleFabricator",
+    "nombre": "Ensamblador de flota",
+    "nota": "Un ingeniero utiliza 1 juego de piezas, 1 chasis y 1 semiconductor para fabricar un transportador, ambulancia o rover de expedición. Requiere robótica.",
+    "grupo": "Logística",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/VehicleFabricator.png"
+  },
+  {
+    "id": "SampleAnalyzer",
+    "nombre": "Analizador de muestras",
+    "nota": "Un ingeniero transforma una muestra de campo en un informe científico en 90 s de trabajo base.",
+    "grupo": "Exploración",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/SampleAnalyzer.png"
+  },
+  {
+    "id": "TraumaBed",
+    "nombre": "Cama de trauma",
+    "nota": "Cama hospitalaria que usa médicos, medicamentos y animaciones nativos. Las ambulancias entregan aquí al paciente.",
+    "grupo": "Rescate",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/TraumaBed.png"
+  },
+  {
+    "id": "PrivateBunk",
+    "nombre": "Cama privada",
+    "nota": "Recuperación base de sueño en 180 s y moral en 400 s. Conserva la animación y el espacio de uso nativos.",
+    "grupo": "Vida colonial",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/PrivateBunk.png"
+  },
+  {
+    "id": "TrainingConsole",
+    "nombre": "Puesto de formación",
+    "nota": "Selecciona un colono y una profesión en F10. El estudio requiere esta consola libre, energía y oxígeno. Cancelar pierde el coste ya pagado.",
+    "grupo": "Vida colonial",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/TrainingConsole.png"
+  },
+  {
+    "id": "CafeSeat",
+    "nombre": "Asiento de cafetería",
+    "nota": "Un asiento cómodo para recuperar moral; las máquinas de comida y bebida se colocan por separado.",
+    "grupo": "Vida colonial",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/CafeSeat.png"
+  },
+  {
+    "id": "TradeConsole",
+    "nombre": "Consola comercial",
+    "nota": "Permite gestionar encargos e importaciones desde F10 con una terminal y plataforma operativas.",
+    "grupo": "Comercio",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/TradeConsole.png"
+  },
+  {
+    "id": "SupplyPacker",
+    "nombre": "Empaquetadora de suministros",
+    "nota": "Un ingeniero transforma 1 metal y 1 bioplástico en un paquete de suministros en 90 s de trabajo base.",
+    "grupo": "Logística",
+    "tipo": "equipo",
+    "imagen": "evidencia/modelos/SupplyPacker.png"
+  },
+  {
+    "id": "FieldSample",
+    "nombre": "Muestra de campo",
+    "nota": "Material obtenido en una expedición; se analiza para producir informes.",
+    "grupo": "Exploración",
+    "tipo": "recurso",
+    "imagen": "evidencia/modelos/FieldSample.png"
+  },
+  {
+    "id": "AncientRelic",
+    "nombre": "Vestigio recuperado",
+    "nota": "Hallazgo ficticio de exploración. Se puede exportar mediante contratos.",
+    "grupo": "Exploración",
+    "tipo": "recurso",
+    "imagen": "evidencia/modelos/AncientRelic.png"
+  },
+  {
+    "id": "SupplyCrate",
+    "nombre": "Paquete de suministros",
+    "nota": "Carga fabricada para contratos de exportación.",
+    "grupo": "Comercio",
+    "tipo": "recurso",
+    "imagen": "evidencia/modelos/SupplyCrate.png"
+  },
+  {
+    "id": "FreightHauler",
+    "nombre": "Transportador pesado",
+    "nota": "Hasta tres cajas físicas por viaje entre almacenes de una misma red.",
+    "grupo": "Logística",
+    "tipo": "vehículo",
+    "imagen": "evidencia/modelos/FreightHauler.png"
+  },
+  {
+    "id": "RescueRover",
+    "nombre": "Ambulancia rover",
+    "nota": "Recoge heridos exteriores y los lleva a una cama de trauma disponible.",
+    "grupo": "Rescate",
+    "tipo": "vehículo",
+    "imagen": "evidencia/modelos/RescueRover.png"
+  },
+  {
+    "id": "ExpeditionRover",
+    "nombre": "Rover de expedición",
+    "nota": "Se fabrica con piezas y lleva hallazgos desde los sitios hasta el centro.",
+    "grupo": "Exploración",
+    "tipo": "vehículo",
+    "imagen": "evidencia/modelos/ExpeditionRover.png"
+  },
+  {
+    "id": "PatrolCar",
+    "nombre": "Vehículo de patrulla",
+    "nota": "Vehículo asociado al guardia asignado a un puesto de patrulla.",
+    "grupo": "Defensa",
+    "tipo": "vehículo",
+    "imagen": "evidencia/modelos/PatrolCar.png"
+  },
+  {
+    "id": "Discovery0",
+    "nombre": "Sonda averiada",
+    "nota": "Señal explorable que entrega muestras y piezas una sola vez.",
+    "grupo": "Exploración",
+    "tipo": "señal",
+    "imagen": "evidencia/modelos/Discovery0.png"
+  },
+  {
+    "id": "Discovery1",
+    "nombre": "Suministros perdidos",
+    "nota": "Cargamento recuperable mediante una expedición física.",
+    "grupo": "Exploración",
+    "tipo": "señal",
+    "imagen": "evidencia/modelos/Discovery1.png"
+  },
+  {
+    "id": "Discovery2",
+    "nombre": "Vestigios de expedición",
+    "nota": "Restos ficticios recuperables; no representan contenido oficial de Planetbase 2.",
+    "grupo": "Exploración",
+    "tipo": "señal",
+    "imagen": "evidencia/modelos/Discovery2.png"
+  },
+  {
+    "id": "TradeShuttle",
+    "nombre": "Lanzadera de servicio",
+    "nota": "Representación visual de la expedición comercial; no transporta colonos entre mundos.",
+    "grupo": "Comercio",
+    "tipo": "vehículo",
+    "imagen": "evidencia/modelos/TradeShuttle.png"
+  }
+]

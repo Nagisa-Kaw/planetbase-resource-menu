@@ -1,0 +1,31 @@
+[Message:   BepInEx] BepInEx 5.4.23.6 - Planetbase (06/07/2026 09:48:44 a. m.)
+[Info   :   BepInEx] Running under Unity v2022.3.62.7762112
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.6]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 7 plugins to load
+[Info   :   BepInEx] Loading [Ocio colonial 1.2.0]
+[Info   :Ocio colonial] Ocio colonial listo. Cuatro edificios nuevos en Construir interior.
+[Info   :   BepInEx] Loading [Energía nuclear y transporte 1.2.0]
+[Info   :Energía nuclear y transporte] Expansión lista: reactor, refrigeración, taller de combustible y garaje de rovers.
+[Info   :   BepInEx] Loading [Frontera Solar 0.3.0]
+[Info   :Frontera Solar] Frontera Solar 0.3.0 lista. F9: gestión; F6: capas de escaneo.
+[Info   :   BepInEx] Loading [Colonias en expansión · alfa 0.1.0]
+[Info   :Colonias en expansión · alfa] Colonias en expansión 0.1.0 alfa lista. F10: seis módulos de gestión.
+[Info   :   BepInEx] Loading [Leisure QA 1.0.0]
+[Info   :   BepInEx] Loading [Menú de recursos 1.0.0]
+[Info   :Menú de recursos] Menú de recursos listo. Pulsa F8 durante una partida.
+[Info   :   BepInEx] Loading [Terreno y velocidad 1.0.0]
+[Info   :Terreno y velocidad] Terreno y velocidad listo. Ctrl+F7 selecciona una zona. Velocidad máxima x8.
+[Message:   BepInEx] Chainloader startup complete
+[Info   :Leisure QA] LEISURE QA native build, AI and mechanics passed. Saving mid-round.
+[Info   :Ocio colonial] Casino · apuesta 2, premio 0 monedas.
+[Info   :Leisure QA] LEISURE QA PASSED: 64 checks; four native buildings, five furnishings, AI, morale, fatigue, betting and save/reload.
+[Info   :Leisure QA] LEISURE QA previews saved: [QA]\profile\leisure-club.jpg

@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace PlanetbaseColonyLeisure
 {
-    [BepInPlugin("local.planetbase.colony-leisure", "Ocio colonial", "1.0.0")]
+    [BepInPlugin("local.planetbase.colony-leisure", "Ocio colonial", "1.2.0")]
     [BepInProcess("Planetbase.exe")]
     public sealed class ColonyLeisurePlugin : BaseUnityPlugin
     {
@@ -71,7 +71,7 @@ namespace PlanetbaseColonyLeisure
 
                 ModuleType template = TypeList<ModuleType, ModuleTypeList>.find(dome.Template);
                 __result = (GameObject)Load.Invoke(template, new object[] { sizeIndex });
-                LeisureModels.AddBuildingSign(__result, dome, sizeIndex);
+                LeisureArchitecture.Building(__result, dome, sizeIndex);
                 return false;
             }
         }
@@ -82,7 +82,7 @@ namespace PlanetbaseColonyLeisure
             private static void Postfix(ComponentType __instance, GameObject __result)
             {
                 if (__instance is LeisureEquipment equipment)
-                    LeisureModels.DecorateEquipment(__result, equipment);
+                    LeisureArchitecture.Equipment(__result, equipment);
             }
         }
     }

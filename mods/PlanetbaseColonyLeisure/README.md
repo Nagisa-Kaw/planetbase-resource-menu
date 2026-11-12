@@ -1,6 +1,6 @@
 # Ocio colonial para Planetbase
 
-Versión 1.0.0. Cuatro edificios interiores nuevos y cuatro muebles con actividades para los colonos. Compatible con **Planetbase 1.4.2 de Steam para Windows**, Unity Mono de 32 bits y **BepInEx 5.4.23.6 x86**. Los textos añadidos están en español.
+Versión 1.2.0. Cuatro edificios interiores nuevos y cuatro muebles con actividades para los colonos. Compatible con **Planetbase 1.4.2 de Steam para Windows**, Unity Mono de 32 bits y **BepInEx 5.4.23.6 x86**. Los textos añadidos están en español.
 
 ## Edificios y actividades
 
@@ -68,13 +68,13 @@ El mod utiliza el formato de guardado del propio juego y añade los datos de la 
 
 ## Modelos y sonido
 
-Las salas reutilizan las cúpulas y los recursos visuales que ya están instalados con Planetbase, con rótulos propios. Los muebles añaden marcos, luces, una plataforma y altavoces generados por el mod. Las consolas y los asientos parten de modelos del juego. Los colonos usan las animaciones originales de sentarse, trabajar e idle. Esta versión no incluye una animación de baile nueva.
+La actualización visual 1.2.0 sustituye las cuatro cúpulas visibles por cascos propios y cubiertas diferenciadas: cian en videojuegos, magenta en club, ámbar en casino y verde en bienestar, en ambos tamaños. Mantiene las bases, los suelos y las colisiones nativos. Los cascos se recortan en las conexiones y se ocultan con el control normal de techos. Las recreativas, terminales de casino y asientos de meditación tienen cuerpos propios; la pista conserva las baldosas luminosas y altavoces de la versión anterior. Los colonos conservan sus posiciones y animaciones originales de sentarse, trabajar e idle. Esta versión no incluye una animación de baile nueva. `VALIDACION-INTEGRAL.md` enlaza las pruebas de esta actualización.
 
 La música del club se sintetiza en memoria con una secuencia original y sigue el volumen de música del juego. El paquete no contiene modelos, música, DLL ni otros recursos extraídos de Planetbase.
 
 ## Compilar
 
-Necesitas el SDK de .NET 8 o posterior, el juego instalado y BepInEx 5. Desde esta carpeta, o desde `codigo` dentro del ZIP:
+Necesitas el SDK de .NET 8 o posterior, el juego instalado y BepInEx 5. Conserva la carpeta hermana `PlanetbaseVisuals`, que contiene el código compartido de geometría. Desde la carpeta del proyecto (también incluida dentro de `codigo` en el paquete):
 
 ```powershell
 $juego = 'C:\Program Files (x86)\Steam\steamapps\common\Planetbase'

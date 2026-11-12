@@ -1,0 +1,109 @@
+[Message:   BepInEx] BepInEx 5.4.23.6 - Planetbase (06/07/2026 09:48:44 a. m.)
+[Info   :   BepInEx] Running under Unity v2022.3.62.7762112
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.6]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 7 plugins to load
+[Info   :   BepInEx] Loading [Ocio colonial 1.2.0]
+[Info   :Ocio colonial] Ocio colonial listo. Cuatro edificios nuevos en Construir interior.
+[Info   :   BepInEx] Loading [Energía nuclear y transporte 1.2.0]
+[Info   :Energía nuclear y transporte] Expansión lista: reactor, refrigeración, taller de combustible y garaje de rovers.
+[Info   :   BepInEx] Loading [Frontera Solar 0.3.0]
+[Info   :Frontera Solar] Frontera Solar 0.3.0 lista. F9: gestión; F6: capas de escaneo.
+[Info   :   BepInEx] Loading [Colonias en expansión · alfa 0.1.0]
+[Info   :Colonias en expansión · alfa] Colonias en expansión 0.1.0 alfa lista. F10: seis módulos de gestión.
+[Info   :   BepInEx] Loading [Nuclear Transport QA 1.0.0]
+[Info   :   BepInEx] Loading [Menú de recursos 1.0.0]
+[Info   :Menú de recursos] Menú de recursos listo. Pulsa F8 durante una partida.
+[Info   :   BepInEx] Loading [Terreno y velocidad 1.0.0]
+[Info   :Terreno y velocidad] Terreno y velocidad listo. Ctrl+F7 selecciona una zona. Velocidad máxima x8.
+[Message:   BepInEx] Chainloader startup complete
+[Info   :Nuclear Transport QA] PASS 1: isolated QA profile
+[Info   :Nuclear Transport QA] PASS 2: offline achievements
+[Info   :Nuclear Transport QA] PASS 3: native help
+[Info   :Nuclear Transport QA] PASS 4: fuel follows fourteen vanilla resource indexes with Solar also loaded
+[Info   :Nuclear Transport QA] PASS 5: native build menu mMenuBuildInterior
+[Info   :Nuclear Transport QA] PASS 6: native build menu mMenuBuildExterior
+[Info   :Nuclear Transport QA] PASS 7: registered localized ModuleTypeFuelWorkshop
+[Info   :Nuclear Transport QA] PASS 8: native placement ModuleTypeFuelWorkshop
+[Info   :Nuclear Transport QA] PASS 9: native materials and construction Taller de combustible nuclear
+[Info   :Nuclear Transport QA] PASS 10: native connection clearance Taller de combustible nuclear
+[Info   :Nuclear Transport QA] PASS 11: native materials and construction Conexión
+[Info   :Nuclear Transport QA] PASS 12: registered localized ModuleTypeNuclearReactor
+[Info   :Nuclear Transport QA] PASS 13: native placement ModuleTypeNuclearReactor
+[Info   :Nuclear Transport QA] PASS 14: native materials and construction Reactor nuclear
+[Info   :Nuclear Transport QA] PASS 15: native connection clearance Reactor nuclear
+[Info   :Nuclear Transport QA] PASS 16: native materials and construction Conexión
+[Info   :Nuclear Transport QA] PASS 17: registered localized ModuleTypeCoolingTower
+[Info   :Nuclear Transport QA] PASS 18: native placement ModuleTypeCoolingTower
+[Info   :Nuclear Transport QA] PASS 19: native materials and construction Torre de refrigeración
+[Info   :Nuclear Transport QA] PASS 20: native connection clearance Torre de refrigeración
+[Info   :Nuclear Transport QA] PASS 21: native materials and construction Conexión
+[Info   :Nuclear Transport QA] PASS 22: registered localized ModuleTypeRoverGarage
+[Info   :Nuclear Transport QA] PASS 23: native placement ModuleTypeRoverGarage
+[Info   :Nuclear Transport QA] PASS 24: native materials and construction Garaje de rovers
+[Info   :Nuclear Transport QA] PASS 25: native connection clearance Garaje de rovers
+[Info   :Nuclear Transport QA] PASS 26: native materials and construction Conexión
+[Info   :Nuclear Transport QA] PASS 27: shared native service grid
+[Info   :Nuclear Transport QA] PASS 28: native furniture placement FuelCentrifuge
+[Info   :Nuclear Transport QA] PASS 29: native materials and construction Centrifugadora de combustible
+[Info   :Nuclear Transport QA] PASS 30: native furniture placement NuclearFuelStore
+[Info   :Nuclear Transport QA] PASS 31: native materials and construction Depósito de combustible
+[Info   :Nuclear Transport QA] PASS 32: native engineer interaction marker
+[Info   :Nuclear Transport QA] PASS 33: requires engineer
+[Info   :Nuclear Transport QA] PASS 34: native production consumes ore and metal, produces exactly one rod
+[Info   :Nuclear Transport QA] PASS 35: no free production without inputs or operator
+[Info   :Nuclear Transport QA] PASS 36: AI selects fuel delivery
+[Info   :Nuclear Transport QA] PASS 37: AI targets the manufactured fuel rod
+[Info   :Nuclear Transport QA] PASS 38: autonomous pickup, walk and fuel delivery preserve physical inventory
+[Info   :Nuclear Transport QA] PASS 39: reactor starts without a loaded rod
+[Info   :Nuclear Transport QA] PASS 40: reactor refuels from buffer and generates 60 kW
+[Info   :Nuclear Transport QA] PASS 41: rod removed once on refuel
+[Info   :Nuclear Transport QA] PASS 42: fuel burn follows simulation time
+[Info   :Nuclear Transport QA] PASS 43: pause preserves fuel
+[Info   :Nuclear Transport QA] PASS 44: lost cooling scrams and preserves fuel
+[Info   :Nuclear Transport QA] PASS 45: cooling restoration restarts core
+[Info   :Nuclear Transport QA] PASS 46: water loss scrams without burning fuel
+[Info   :Nuclear Transport QA] PASS 47: manual shutdown preserves fuel
+[Info   :Nuclear Transport QA] PASS 48: registered localized ModuleTypeNuclearReactor
+[Info   :Nuclear Transport QA] PASS 49: native placement ModuleTypeNuclearReactor
+[Info   :Nuclear Transport QA] PASS 50: native materials and construction Reactor nuclear
+[Info   :Nuclear Transport QA] PASS 51: native connection clearance Reactor nuclear
+[Info   :Nuclear Transport QA] PASS 52: native materials and construction Conexión
+[Info   :Nuclear Transport QA] PASS 53: one tower serves one reactor deterministically
+[Info   :Nuclear Transport QA] PASS 54: three transport colonists available
+[Info   :Nuclear Transport QA] PASS 55: loaded exterior rover doubles normal speed
+[Info   :Nuclear Transport QA] PASS 56: two rover capacity, third colono walks
+[Info   :Nuclear Transport QA] PASS 57: unloading releases a vehicle for another colonist
+[Info   :Nuclear Transport QA] PASS 58: existing lease can finish a long route
+[Info   :Nuclear Transport QA] PASS 59: no new deployment beyond 120 m
+[Info   :Nuclear Transport QA] PASS 60: nearby pickup deploys rover
+[Info   :Nuclear Transport QA] PASS 61: rover does not enter indoor paths
+[Info   :Nuclear Transport QA] PASS 62: power loss removes rover bonus
+[Info   :Nuclear Transport QA] PASS 63: loaded rover advances through native navigation
+[Info   :Nuclear Transport QA] PASS 64: visible driver keeps real cargo
+[Info   :Nuclear Transport QA] PASS 65: native construction delivery destination
+[Info   :Nuclear Transport QA] PASS 66: rover delivers real construction material through native arrival AI
+[Info   :Nuclear Transport QA] PASS 67: completed delivery releases rover
+[Info   :Nuclear Transport QA] PASS 68: core running before save
+[Info   :Nuclear Transport QA] NUCLEAR QA mechanics passed; saving fueled core and loaded rover: [QA]\profile/Saves/save39.sav
+[Info   :Nuclear Transport QA] PASS 69: serialized reactor fuel states
+[Info   :Nuclear Transport QA] PASS 70: all buildings persist across reload
+[Info   :Nuclear Transport QA] PASS 71: remaining fuel persists exactly
+[Info   :Nuclear Transport QA] PASS 72: no duplicated fuel on reload
+[Info   :Nuclear Transport QA] PASS 73: reactor restarts after reload with cooling
+[Info   :Nuclear Transport QA] PASS 74: native crate survives reload
+[Info   :Nuclear Transport QA] PASS 75: rover assignment reconstructs without duplication
+[Info   :Nuclear Transport QA] PASS 76: rover model recreates after reload
+[Info   :Nuclear Transport QA] PASS 77: fuel equipment persists
+[Info   :Nuclear Transport QA] PASS 78: exhausted fuel stops generation
+[Info   :Nuclear Transport QA] PASS 79: empty buffer cannot refuel for free
+[Info   :Nuclear Transport QA] NUCLEAR QA PASSED: 79 checks; native construction, fuel production, cooling, transport, navigation, save/reload.
+[Info   :Nuclear Transport QA] NUCLEAR QA previews saved: [QA]\profile\nuclear-rover.jpg

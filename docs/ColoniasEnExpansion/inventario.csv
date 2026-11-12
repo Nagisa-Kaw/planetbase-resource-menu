@@ -1,0 +1,38 @@
+﻿id,nombre,nota,grupo,tipo,imagen
+ModuleTypeSecurityCommand,Centro de seguridad,Instala una consola de seguridad. F10 organiza patrullas y alertas; el guardia de consola conserva su trabajo nativo.,Defensa,edificio,evidencia/modelos/ModuleTypeSecurityCommand.png
+ModuleTypeSurveillanceRadar,Radar de vigilancia,Detecta intrusos exteriores a 140 m y avisa una vez por intruso. Necesita energía.,Defensa,edificio,evidencia/modelos/ModuleTypeSurveillanceRadar.png
+ModuleTypeDefenseTurret,Torre defensiva,Dispara a intrusos exteriores a 50 m sin obstáculos del terreno. Consume energía y un repuesto por 20 disparos. Requiere centro de seguridad operativo.,Defensa,edificio,evidencia/modelos/ModuleTypeDefenseTurret.png
+ModuleTypePatrolDepot,Puesto de patrulla,Despliega un vehículo de patrulla para un guardia asignado desde F10. El guardia usa rutas alcanzables y deja la patrulla ante necesidades críticas.,Defensa,edificio,evidencia/modelos/ModuleTypePatrolDepot.png
+ModuleTypeLogisticsHub,Centro de distribución,"Consolas, empaquetadoras y ensambladores. F10 configura rutas entre almacenes para transportadores de hasta tres cajas.",Logística,edificio,evidencia/modelos/ModuleTypeLogisticsHub.png
+ModuleTypeFreightWarehouse,Almacén logístico,Almacén nativo de dos tamaños. Puede ser origen o destino de rutas; admite los mismos recursos físicos que un almacén normal.,Logística,edificio,evidencia/modelos/ModuleTypeFreightWarehouse.png
+ModuleTypeExpeditionCenter,Centro de expediciones,Localiza señales en terreno alcanzable. Envía una unidad desde F10 y analiza las muestras encontradas.,Exploración,edificio,evidencia/modelos/ModuleTypeExpeditionCenter.png
+ModuleTypeExpeditionBeacon,Baliza de expedición,Amplía a 300 m el radio de búsqueda de señales al cartografiar por primera vez. Necesita energía.,Exploración,edificio,evidencia/modelos/ModuleTypeExpeditionBeacon.png
+ModuleTypeEmergencyHospital,Hospital de emergencia,Camas de trauma y medicinas para la atención nativa por médicos. Las ambulancias llevan aquí a heridos exteriores.,Rescate,edificio,evidencia/modelos/ModuleTypeEmergencyHospital.png
+ModuleTypeRescueHangar,Hangar de rescate,Habilita ambulancias autónomas a 180 m. Fabrícalas en el centro de distribución.,Rescate,edificio,evidencia/modelos/ModuleTypeRescueHangar.png
+ModuleTypeEmergencyShelter,Refugio de emergencia,"Sala presurizada de evacuación con bancos, agua y camas. La evacuación respeta corredores y esclusas.",Rescate,edificio,evidencia/modelos/ModuleTypeEmergencyShelter.png
+ModuleTypePrivateResidence,Residencias privadas,Camas individuales que recuperan descanso y moral mediante las reglas normales de sueño.,Vida colonial,edificio,evidencia/modelos/ModuleTypePrivateResidence.png
+ModuleTypeAcademy,Academia colonial,"Forma al colono seleccionado para otra profesión: 2 informes, 20 créditos y 300 s de estudio. La falta de energía pausa el progreso.",Vida colonial,edificio,evidencia/modelos/ModuleTypeAcademy.png
+ModuleTypeCommunityCafe,Cafetería comunitaria,"Asientos cómodos, comida y bebidas. Los consumos alimentarios conservan las reglas nativas.",Vida colonial,edificio,evidencia/modelos/ModuleTypeCommunityCafe.png
+ModuleTypeTradeTerminal,Terminal comercial,Contratos e importaciones en F10. Los contratos consumen inventario libre de la misma red y pagan una sola vez tras la expedición.,Comercio,edificio,evidencia/modelos/ModuleTypeTradeTerminal.png
+ModuleTypeExportDock,Plataforma logística,Plataforma exclusiva para expediciones comerciales e importaciones del mod; no admite visitantes nativos.,Comercio,edificio,evidencia/modelos/ModuleTypeExportDock.png
+SecurityDispatch,Consola de seguridad avanzada,Puesto de trabajo nativo para un guardia. El centro de seguridad habilita las torres y patrullas.,Defensa,equipo,evidencia/modelos/SecurityDispatch.png
+LogisticsConsole,Consola de distribución,"Abre F10 para definir origen, destino, material y transportador.",Logística,equipo,evidencia/modelos/LogisticsConsole.png
+VehicleFabricator,Ensamblador de flota,"Un ingeniero utiliza 1 juego de piezas, 1 chasis y 1 semiconductor para fabricar un transportador, ambulancia o rover de expedición. Requiere robótica.",Logística,equipo,evidencia/modelos/VehicleFabricator.png
+SampleAnalyzer,Analizador de muestras,Un ingeniero transforma una muestra de campo en un informe científico en 90 s de trabajo base.,Exploración,equipo,evidencia/modelos/SampleAnalyzer.png
+TraumaBed,Cama de trauma,"Cama hospitalaria que usa médicos, medicamentos y animaciones nativos. Las ambulancias entregan aquí al paciente.",Rescate,equipo,evidencia/modelos/TraumaBed.png
+PrivateBunk,Cama privada,Recuperación base de sueño en 180 s y moral en 400 s. Conserva la animación y el espacio de uso nativos.,Vida colonial,equipo,evidencia/modelos/PrivateBunk.png
+TrainingConsole,Puesto de formación,"Selecciona un colono y una profesión en F10. El estudio requiere esta consola libre, energía y oxígeno. Cancelar pierde el coste ya pagado.",Vida colonial,equipo,evidencia/modelos/TrainingConsole.png
+CafeSeat,Asiento de cafetería,Un asiento cómodo para recuperar moral; las máquinas de comida y bebida se colocan por separado.,Vida colonial,equipo,evidencia/modelos/CafeSeat.png
+TradeConsole,Consola comercial,Permite gestionar encargos e importaciones desde F10 con una terminal y plataforma operativas.,Comercio,equipo,evidencia/modelos/TradeConsole.png
+SupplyPacker,Empaquetadora de suministros,Un ingeniero transforma 1 metal y 1 bioplástico en un paquete de suministros en 90 s de trabajo base.,Logística,equipo,evidencia/modelos/SupplyPacker.png
+FieldSample,Muestra de campo,Material obtenido en una expedición; se analiza para producir informes.,Exploración,recurso,evidencia/modelos/FieldSample.png
+AncientRelic,Vestigio recuperado,Hallazgo ficticio de exploración. Se puede exportar mediante contratos.,Exploración,recurso,evidencia/modelos/AncientRelic.png
+SupplyCrate,Paquete de suministros,Carga fabricada para contratos de exportación.,Comercio,recurso,evidencia/modelos/SupplyCrate.png
+FreightHauler,Transportador pesado,Hasta tres cajas físicas por viaje entre almacenes de una misma red.,Logística,vehículo,evidencia/modelos/FreightHauler.png
+RescueRover,Ambulancia rover,Recoge heridos exteriores y los lleva a una cama de trauma disponible.,Rescate,vehículo,evidencia/modelos/RescueRover.png
+ExpeditionRover,Rover de expedición,Se fabrica con piezas y lleva hallazgos desde los sitios hasta el centro.,Exploración,vehículo,evidencia/modelos/ExpeditionRover.png
+PatrolCar,Vehículo de patrulla,Vehículo asociado al guardia asignado a un puesto de patrulla.,Defensa,vehículo,evidencia/modelos/PatrolCar.png
+Discovery0,Sonda averiada,Señal explorable que entrega muestras y piezas una sola vez.,Exploración,señal,evidencia/modelos/Discovery0.png
+Discovery1,Suministros perdidos,Cargamento recuperable mediante una expedición física.,Exploración,señal,evidencia/modelos/Discovery1.png
+Discovery2,Vestigios de expedición,Restos ficticios recuperables; no representan contenido oficial de Planetbase 2.,Exploración,señal,evidencia/modelos/Discovery2.png
+TradeShuttle,Lanzadera de servicio,Representación visual de la expedición comercial; no transporta colonos entre mundos.,Comercio,vehículo,evidencia/modelos/TradeShuttle.png

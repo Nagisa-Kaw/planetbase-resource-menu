@@ -1,0 +1,331 @@
+[Message:   BepInEx] BepInEx 5.4.23.6 - Planetbase (06/07/2026 09:48:44 a. m.)
+[Info   :   BepInEx] Running under Unity v2022.3.62.7762112
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.6]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 7 plugins to load
+[Info   :   BepInEx] Loading [Ocio colonial 1.2.0]
+[Info   :Ocio colonial] Ocio colonial listo. Cuatro edificios nuevos en Construir interior.
+[Info   :   BepInEx] Loading [Energía nuclear y transporte 1.2.0]
+[Info   :Energía nuclear y transporte] Expansión lista: reactor, refrigeración, taller de combustible y garaje de rovers.
+[Info   :   BepInEx] Loading [Frontera Solar 0.3.0]
+[Info   :Frontera Solar] Frontera Solar 0.3.0 lista. F9: gestión; F6: capas de escaneo.
+[Info   :   BepInEx] Loading [Colonias en expansión · alfa 0.1.0]
+[Info   :Colonias en expansión · alfa] Colonias en expansión 0.1.0 alfa lista. F10: seis módulos de gestión.
+[Info   :   BepInEx] Loading [Community QA 0.1.0]
+[Info   :   BepInEx] Loading [Menú de recursos 1.0.0]
+[Info   :Menú de recursos] Menú de recursos listo. Pulsa F8 durante una partida.
+[Info   :   BepInEx] Loading [Terreno y velocidad 1.0.0]
+[Info   :Terreno y velocidad] Terreno y velocidad listo. Ctrl+F7 selecciona una zona. Velocidad máxima x8.
+[Message:   BepInEx] Chainloader startup complete
+[Info   :Community QA] COMMUNITY PASS 1: isolated QA profile
+[Info   :Community QA] COMMUNITY PASS 2: offline achievements
+[Info   :Community QA] COMMUNITY PASS 3: original nuclear fuel index preserved
+[Info   :Community QA] COMMUNITY PASS 4: community resources appended after solar resources
+[Info   :Community QA] COMMUNITY PASS 5: all nine bot specializations registered in native bot list
+[Info   :Community QA] COMMUNITY PASS 6: localized building SecurityCommand
+[Info   :Community QA] COMMUNITY PASS 7: native placement SecurityCommand
+[Info   :Community QA] COMMUNITY PASS 8: native construction Centro de seguridad
+[Info   :Community QA] COMMUNITY PASS 9: native link Centro de seguridad
+[Info   :Community QA] COMMUNITY PASS 10: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 11: localized building LogisticsHub
+[Info   :Community QA] COMMUNITY PASS 12: native placement LogisticsHub
+[Info   :Community QA] COMMUNITY PASS 13: native construction Centro de distribución
+[Info   :Community QA] COMMUNITY PASS 14: native link Centro de distribución
+[Info   :Community QA] COMMUNITY PASS 15: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 16: localized building FreightWarehouse
+[Info   :Community QA] COMMUNITY PASS 17: native placement FreightWarehouse
+[Info   :Community QA] COMMUNITY PASS 18: native construction Almacén logístico
+[Info   :Community QA] COMMUNITY PASS 19: native link Almacén logístico
+[Info   :Community QA] COMMUNITY PASS 20: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 21: localized building ExpeditionCenter
+[Info   :Community QA] COMMUNITY PASS 22: native placement ExpeditionCenter
+[Info   :Community QA] COMMUNITY PASS 23: native construction Centro de expediciones
+[Info   :Community QA] COMMUNITY PASS 24: native link Centro de expediciones
+[Info   :Community QA] COMMUNITY PASS 25: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 26: localized building EmergencyHospital
+[Info   :Community QA] COMMUNITY PASS 27: native placement EmergencyHospital
+[Info   :Community QA] COMMUNITY PASS 28: native construction Hospital de emergencia
+[Info   :Community QA] COMMUNITY PASS 29: native link Hospital de emergencia
+[Info   :Community QA] COMMUNITY PASS 30: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 31: localized building EmergencyShelter
+[Info   :Community QA] COMMUNITY PASS 32: native placement EmergencyShelter
+[Info   :Community QA] COMMUNITY PASS 33: native construction Refugio de emergencia
+[Info   :Community QA] COMMUNITY PASS 34: native link Refugio de emergencia
+[Info   :Community QA] COMMUNITY PASS 35: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 36: localized building PrivateResidence
+[Info   :Community QA] COMMUNITY PASS 37: native placement PrivateResidence
+[Info   :Community QA] COMMUNITY PASS 38: native construction Residencias privadas
+[Info   :Community QA] COMMUNITY PASS 39: native link Residencias privadas
+[Info   :Community QA] COMMUNITY PASS 40: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 41: localized building Academy
+[Info   :Community QA] COMMUNITY PASS 42: native placement Academy
+[Info   :Community QA] COMMUNITY PASS 43: native construction Academia colonial
+[Info   :Community QA] COMMUNITY PASS 44: native link Academia colonial
+[Info   :Community QA] COMMUNITY PASS 45: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 46: localized building CommunityCafe
+[Info   :Community QA] COMMUNITY PASS 47: native placement CommunityCafe
+[Info   :Community QA] COMMUNITY PASS 48: native construction Cafetería comunitaria
+[Info   :Community QA] COMMUNITY PASS 49: native link Cafetería comunitaria
+[Info   :Community QA] COMMUNITY PASS 50: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 51: localized building TradeTerminal
+[Info   :Community QA] COMMUNITY PASS 52: native placement TradeTerminal
+[Info   :Community QA] COMMUNITY PASS 53: native construction Terminal comercial
+[Info   :Community QA] COMMUNITY PASS 54: native link Terminal comercial
+[Info   :Community QA] COMMUNITY PASS 55: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 56: localized building SurveillanceRadar
+[Info   :Community QA] COMMUNITY PASS 57: native placement SurveillanceRadar
+[Info   :Community QA] COMMUNITY PASS 58: native construction Radar de vigilancia
+[Info   :Community QA] COMMUNITY PASS 59: native link Radar de vigilancia
+[Info   :Community QA] COMMUNITY PASS 60: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 61: localized building DefenseTurret
+[Info   :Community QA] COMMUNITY PASS 62: native placement DefenseTurret
+[Info   :Community QA] COMMUNITY PASS 63: native construction Torre defensiva
+[Info   :Community QA] COMMUNITY PASS 64: native link Torre defensiva
+[Info   :Community QA] COMMUNITY PASS 65: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 66: localized building PatrolDepot
+[Info   :Community QA] COMMUNITY PASS 67: native placement PatrolDepot
+[Info   :Community QA] COMMUNITY PASS 68: native construction Puesto de patrulla
+[Info   :Community QA] COMMUNITY PASS 69: native link Puesto de patrulla
+[Info   :Community QA] COMMUNITY PASS 70: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 71: localized building ExpeditionBeacon
+[Info   :Community QA] COMMUNITY PASS 72: native placement ExpeditionBeacon
+[Info   :Community QA] COMMUNITY PASS 73: native construction Baliza de expedición
+[Info   :Community QA] COMMUNITY PASS 74: native link Baliza de expedición
+[Info   :Community QA] COMMUNITY PASS 75: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 76: localized building RescueHangar
+[Info   :Community QA] COMMUNITY PASS 77: native placement RescueHangar
+[Info   :Community QA] COMMUNITY PASS 78: native construction Hangar de rescate
+[Info   :Community QA] COMMUNITY PASS 79: native link Hangar de rescate
+[Info   :Community QA] COMMUNITY PASS 80: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 81: localized building ExportDock
+[Info   :Community QA] COMMUNITY PASS 82: native placement ExportDock
+[Info   :Community QA] COMMUNITY PASS 83: native construction Plataforma logística
+[Info   :Community QA] COMMUNITY PASS 84: native link Plataforma logística
+[Info   :Community QA] COMMUNITY PASS 85: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 86: native construction Almacén
+[Info   :Community QA] COMMUNITY PASS 87: native link Almacén
+[Info   :Community QA] COMMUNITY PASS 88: native construction Conexión
+[Info   :Community QA] COMMUNITY PASS 89: native furnishing placement SecurityDispatch
+[Info   :Community QA] COMMUNITY PASS 90: native construction Consola de seguridad avanzada
+[Info   :Community QA] COMMUNITY PASS 91: native furnishing placement LogisticsConsole
+[Info   :Community QA] COMMUNITY PASS 92: native construction Consola de distribución
+[Info   :Community QA] COMMUNITY PASS 93: native furnishing placement VehicleFabricator
+[Info   :Community QA] COMMUNITY PASS 94: native construction Ensamblador de flota
+[Info   :Community QA] COMMUNITY PASS 95: native furnishing placement SupplyPacker
+[Info   :Community QA] COMMUNITY PASS 96: native construction Empaquetadora de suministros
+[Info   :Community QA] COMMUNITY PASS 97: native furnishing placement SampleAnalyzer
+[Info   :Community QA] COMMUNITY PASS 98: native construction Analizador de muestras
+[Info   :Community QA] COMMUNITY PASS 99: native furnishing placement TraumaBed
+[Info   :Community QA] COMMUNITY PASS 100: native construction Cama de trauma
+[Info   :Community QA] COMMUNITY PASS 101: native furnishing placement MedicalCabinet
+[Info   :Community QA] COMMUNITY PASS 102: native construction Armario de Medicinas
+[Info   :Community QA] COMMUNITY PASS 103: native furnishing placement PrivateBunk
+[Info   :Community QA] COMMUNITY PASS 104: native construction Cama privada
+[Info   :Community QA] COMMUNITY PASS 105: native furnishing placement TrainingConsole
+[Info   :Community QA] COMMUNITY PASS 106: native construction Puesto de formación
+[Info   :Community QA] COMMUNITY PASS 107: native furnishing placement CafeSeat
+[Info   :Community QA] COMMUNITY PASS 108: native construction Asiento de cafetería
+[Info   :Community QA] COMMUNITY PASS 109: native furnishing placement TradeConsole
+[Info   :Community QA] COMMUNITY PASS 110: native construction Consola comercial
+[Info   :Community QA] COMMUNITY PASS 111: all sixteen buildings have native help
+[Info   :Community QA] COMMUNITY PASS 112: own equipment model SecurityDispatch
+[Info   :Community QA] COMMUNITY PASS 113: native interaction marker SecurityDispatch
+[Info   :Community QA] COMMUNITY PASS 114: own equipment model LogisticsConsole
+[Info   :Community QA] COMMUNITY PASS 115: native interaction marker LogisticsConsole
+[Info   :Community QA] COMMUNITY PASS 116: own equipment model VehicleFabricator
+[Info   :Community QA] COMMUNITY PASS 117: native interaction marker VehicleFabricator
+[Info   :Community QA] COMMUNITY PASS 118: own equipment model SupplyPacker
+[Info   :Community QA] COMMUNITY PASS 119: native interaction marker SupplyPacker
+[Info   :Community QA] COMMUNITY PASS 120: own equipment model SampleAnalyzer
+[Info   :Community QA] COMMUNITY PASS 121: native interaction marker SampleAnalyzer
+[Info   :Community QA] COMMUNITY PASS 122: own equipment model TraumaBed
+[Info   :Community QA] COMMUNITY PASS 123: native interaction marker TraumaBed
+[Info   :Community QA] COMMUNITY PASS 124: own equipment model PrivateBunk
+[Info   :Community QA] COMMUNITY PASS 125: native interaction marker PrivateBunk
+[Info   :Community QA] COMMUNITY PASS 126: own equipment model TrainingConsole
+[Info   :Community QA] COMMUNITY PASS 127: native interaction marker TrainingConsole
+[Info   :Community QA] COMMUNITY PASS 128: own equipment model CafeSeat
+[Info   :Community QA] COMMUNITY PASS 129: native interaction marker CafeSeat
+[Info   :Community QA] COMMUNITY PASS 130: own equipment model TradeConsole
+[Info   :Community QA] COMMUNITY PASS 131: native interaction marker TradeConsole
+[Info   :Community QA] COMMUNITY QA fixture built: sixteen modules, warehouse, eleven furnishings.
+[Info   :Community QA] COMMUNITY PASS 132: recipe input accepted MachineParts
+[Info   :Community QA] COMMUNITY PASS 133: recipe input accepted VehicleChassis
+[Info   :Community QA] COMMUNITY PASS 134: recipe input accepted Semiconductors
+[Info   :Community QA] COMMUNITY PASS 135: vehicle recipe consumes all three inputs 0
+[Info   :Community QA] COMMUNITY PASS 136: recipe input accepted MachineParts
+[Info   :Community QA] COMMUNITY PASS 137: recipe input accepted VehicleChassis
+[Info   :Community QA] COMMUNITY PASS 138: recipe input accepted Semiconductors
+[Info   :Community QA] COMMUNITY PASS 139: vehicle recipe consumes all three inputs 1
+[Info   :Community QA] COMMUNITY PASS 140: recipe input accepted MachineParts
+[Info   :Community QA] COMMUNITY PASS 141: recipe input accepted VehicleChassis
+[Info   :Community QA] COMMUNITY PASS 142: recipe input accepted Semiconductors
+[Info   :Community QA] COMMUNITY PASS 143: vehicle recipe consumes all three inputs 2
+[Info   :Community QA] COMMUNITY PASS 144: manufactured hauler uses own model
+[Info   :Community QA] COMMUNITY PASS 145: recipe input accepted Metal
+[Info   :Community QA] COMMUNITY PASS 146: recipe input accepted Bioplastic
+[Info   :Community QA] COMMUNITY PASS 147: native supply packing recipe
+[Info   :Community QA] COMMUNITY PASS 148: recipe input accepted FieldSample
+[Info   :Community QA] COMMUNITY PASS 149: native sample analysis produces research report
+[Info   :Community QA] COMMUNITY PASS 150: fixture stored resource Metal
+[Info   :Community QA] COMMUNITY PASS 151: fixture stored resource Metal
+[Info   :Community QA] COMMUNITY PASS 152: fixture stored resource Metal
+[Info   :Community QA] COMMUNITY PASS 153: fixture stored resource Metal
+[Info   :Community QA] COMMUNITY PASS 154: fixture stored resource Metal
+[Info   :Community QA] COMMUNITY PASS 155: fixture stored resource Metal
+[Info   :Community QA] FREIGHT start: Ruta creada: hasta tres cajas por viaje. F10 permite cancelarla.
+[Info   :Community QA] COMMUNITY PASS 156: freight route assigned
+[Info   :Community QA] COMMUNITY PASS 157: hauler loads three real crates
+[Info   :Community QA] COMMUNITY PASS 158: all freight resources held in native Loaded state
+[Info   :Community QA] COMMUNITY PASS 159: freight carrier travels native navigation
+[Info   :Community QA] COMMUNITY PASS 160: three crates delivered to actual destination storage slots
+[Info   :Community QA] COMMUNITY PASS 161: fixture stored resource Spares
+[Info   :Community QA] COMMUNITY PASS 162: fixture stored resource Spares
+[Info   :Community QA] COMMUNITY PASS 163: powered radar detects physical intruder
+[Info   :Community QA] COMMUNITY PASS 164: powered turret damages exterior intruder
+[Info   :Community QA] COMMUNITY PASS 165: one spare gives twenty shots and first shot consumes one charge
+[Info   :Community QA] COMMUNITY PASS 166: turret stops firing on power loss
+[Info   :Community QA] COMMUNITY PASS 167: guard assigned to powered patrol depot
+[Info   :Community QA] COMMUNITY PASS 168: patrol physically advances through native navigation
+[Info   :Community QA] EXPLORATION map: 6 señales localizadas. Selecciona una unidad y envíala desde F10.
+[Info   :Community QA] COMMUNITY PASS 169: reachable expedition signals generated
+[Info   :Community QA] COMMUNITY PASS 170: mapping twice does not duplicate signals
+[Info   :Community QA] COMMUNITY PASS 171: expedition assigned to unit
+[Info   :Community QA] COMMUNITY PASS 172: signal explored after physical approach and ten seconds work
+[Info   :Community QA] COMMUNITY PASS 173: expedition unit moves before recovery
+[Info   :Community QA] COMMUNITY PASS 174: expedition physically loads three rewards
+[Info   :Community QA] COMMUNITY PASS 175: cafe seat restores morale through native interaction
+[Info   :Community QA] COMMUNITY PASS 176: private bunk native sleep recovery configured
+[Info   :Community QA] COMMUNITY PASS 177: fixture stored resource SupplyCrate
+[Info   :Community QA] COMMUNITY PASS 178: fixture stored resource SupplyCrate
+[Info   :Community QA] COMMUNITY PASS 179: fixture stored resource SupplyCrate
+[Info   :Community QA] COMMUNITY PASS 180: fixture stored resource SupplyCrate
+[Info   :Community QA] COMMUNITY PASS 181: trade contract accepted
+[Info   :Community QA] COMMUNITY PASS 182: contract deposit charged once
+[Info   :Community QA] COMMUNITY PASS 183: second acceptance cannot charge another deposit
+[Info   :Community QA] COMMUNITY PASS 184: available network cargo exported
+[Info   :Community QA] COMMUNITY PASS 185: contract consumes exactly four physical crates
+[Info   :Community QA] COMMUNITY PASS 186: contract shipment settles
+[Info   :Community QA] COMMUNITY PASS 187: one reward and deposit returned
+[Info   :Community QA] COMMUNITY PASS 188: settled contract does not pay twice
+[Info   :Community QA] COMMUNITY PASS 189: medical import accepted
+[Info   :Community QA] COMMUNITY PASS 190: import pauses while dock has no power
+[Info   :Community QA] COMMUNITY PASS 191: import delivers three physical medical supplies
+[Info   :Community QA] COMMUNITY PASS 192: import cannot duplicate delivery
+[Info   :Community QA] COMMUNITY PASS 193: fixture stored resource ResearchPacket
+[Info   :Community QA] COMMUNITY PASS 194: fixture stored resource ResearchPacket
+[Info   :Community QA] COMMUNITY PASS 195: fixture stored resource ResearchPacket
+[Info   :Community QA] COMMUNITY PASS 196: fixture stored resource ResearchPacket
+[Info   :Community QA] COMMUNITY PASS 197: paid retraining starts
+[Info   :Community QA] COMMUNITY PASS 198: training advances while actually using study desk
+[Info   :Community QA] COMMUNITY PASS 199: power failure pauses study progress
+[Info   :Community QA] COMMUNITY PASS 200: ambulance reaches and collects injured exterior colonist
+[Info   :Community QA] COMMUNITY PASS 201: ambulance moves to patient through navigation
+[Info   :Community QA] COMMUNITY PASS 202: patient ownership recorded for transport
+[Info   :Community QA] COMMUNITY QA six feature groups exercised; preparing active tasks for reload.
+[Info   :Community QA] COMMUNITY PASS 203: fixture stored resource Metal
+[Info   :Community QA] COMMUNITY PASS 204: fixture stored resource Metal
+[Info   :Community QA] COMMUNITY PASS 205: fixture stored resource Metal
+[Info   :Community QA] COMMUNITY PASS 206: three active freight cargo ids before save
+[Info   :Community QA] COMMUNITY PASS 207: active exploration return cargo before save
+[Info   :Community QA] COMMUNITY PASS 208: fixture stored resource SupplyCrate
+[Info   :Community QA] COMMUNITY PASS 209: fixture stored resource SupplyCrate
+[Info   :Community QA] COMMUNITY PASS 210: fixture stored resource SupplyCrate
+[Info   :Community QA] COMMUNITY PASS 211: fixture stored resource SupplyCrate
+[Info   :Community QA] COMMUNITY PASS 212: second contract saved during loaded shipment
+[Info   :Community QA] COMMUNITY PASS 213: freight, exploration, rescue, training and patrol active together
+[Info   :Community QA] COMMUNITY QA saving active tasks to [QA]\profile/Saves/save38.sav
+[Info   :Community QA] COMMUNITY PASS 214: colony expansion state serialized
+[Info   :Community QA] COMMUNITY PASS 215: all sixteen new building types persist after reload
+[Info   :Community QA] COMMUNITY PASS 216: physical resource count unchanged by save/load
+[Info   :Community QA] COMMUNITY PASS 217: currency unchanged by save/load
+[Info   :Community QA] COMMUNITY PASS 218: three freight resource identities persist
+[Info   :Community QA] COMMUNITY PASS 219: loaded freight resources survive reload
+[Info   :Community QA] COMMUNITY PASS 220: expedition cargo identities persist
+[Info   :Community QA] COMMUNITY PASS 221: exhausted exploration sites remain exhausted
+[Info   :Community QA] COMMUNITY PASS 222: training progress persists exactly
+[Info   :Community QA] COMMUNITY PASS 223: patient and ambulance assignment survive reload
+[Info   :Community QA] COMMUNITY PASS 224: commercial escrow survives mid-shipment reload
+[Info   :Community QA] COMMUNITY PASS 225: resumed shipment pays exactly once
+[Info   :Community QA] COMMUNITY PASS 226: resumed shipment cannot pay twice
+[Info   :Community QA] COMMUNITY PASS 227: training changes native profession after resumed study
+[Info   :Community QA] COMMUNITY PASS 228: profession index updated consistently
+[Info   :Community QA] COMMUNITY PASS 229: cancelling loaded route drops all three crates
+[Info   :Community QA] COMMUNITY PASS 230: cancelling route never creates or destroys cargo
+[Info   :Community QA] COMMUNITY PASS 231: ambulance transports patient through airlock to hospital
+[Info   :Community QA] COMMUNITY PASS 232: patient enters native hospital bed interaction
+[Info   :Community QA] COMMUNITY PASS 233: native medical treatment completes
+[Info   :Community QA] COMMUNITY PASS 234: native hospital care heals patient and consumes medicine
+[Info   :Community QA] COMMUNITY PASS 235: emergency assigns exterior civilian an evacuation route
+[Info   :Community QA] COMMUNITY PASS 236: civilian evacuates through airlock and corridors to shelter
+[Info   :Community QA] COMMUNITY PASS 237: ending community emergency restores previous no-alert state
+[Info   :Community QA] COMMUNITY PASS 238: community emergency preserves a pre-existing native red alert
+[Info   :Community QA] COMMUNITY PASS 239: new building built after reload Centro de seguridad
+[Info   :Community QA] COMMUNITY PASS 240: own geometry survives reload Centro de seguridad
+[Info   :Community QA] COMMUNITY PASS 241: new building built after reload Centro de distribución
+[Info   :Community QA] COMMUNITY PASS 242: own geometry survives reload Centro de distribución
+[Info   :Community QA] COMMUNITY PASS 243: new building built after reload Almacén logístico
+[Info   :Community QA] COMMUNITY PASS 244: own geometry survives reload Almacén logístico
+[Info   :Community QA] COMMUNITY PASS 245: new building built after reload Centro de expediciones
+[Info   :Community QA] COMMUNITY PASS 246: own geometry survives reload Centro de expediciones
+[Info   :Community QA] COMMUNITY PASS 247: new building built after reload Hospital de emergencia
+[Info   :Community QA] COMMUNITY PASS 248: own geometry survives reload Hospital de emergencia
+[Info   :Community QA] COMMUNITY PASS 249: new building built after reload Refugio de emergencia
+[Info   :Community QA] COMMUNITY PASS 250: own geometry survives reload Refugio de emergencia
+[Info   :Community QA] COMMUNITY PASS 251: new building built after reload Residencias privadas
+[Info   :Community QA] COMMUNITY PASS 252: own geometry survives reload Residencias privadas
+[Info   :Community QA] COMMUNITY PASS 253: new building built after reload Academia colonial
+[Info   :Community QA] COMMUNITY PASS 254: own geometry survives reload Academia colonial
+[Info   :Community QA] COMMUNITY PASS 255: new building built after reload Cafetería comunitaria
+[Info   :Community QA] COMMUNITY PASS 256: own geometry survives reload Cafetería comunitaria
+[Info   :Community QA] COMMUNITY PASS 257: new building built after reload Terminal comercial
+[Info   :Community QA] COMMUNITY PASS 258: own geometry survives reload Terminal comercial
+[Info   :Community QA] COMMUNITY PASS 259: new building built after reload Radar de vigilancia
+[Info   :Community QA] COMMUNITY PASS 260: own geometry survives reload Radar de vigilancia
+[Info   :Community QA] COMMUNITY PASS 261: new building built after reload Torre defensiva
+[Info   :Community QA] COMMUNITY PASS 262: own geometry survives reload Torre defensiva
+[Info   :Community QA] COMMUNITY PASS 263: new building built after reload Puesto de patrulla
+[Info   :Community QA] COMMUNITY PASS 264: own geometry survives reload Puesto de patrulla
+[Info   :Community QA] COMMUNITY PASS 265: new building built after reload Baliza de expedición
+[Info   :Community QA] COMMUNITY PASS 266: own geometry survives reload Baliza de expedición
+[Info   :Community QA] COMMUNITY PASS 267: new building built after reload Hangar de rescate
+[Info   :Community QA] COMMUNITY PASS 268: own geometry survives reload Hangar de rescate
+[Info   :Community QA] COMMUNITY PASS 269: new building built after reload Plataforma logística
+[Info   :Community QA] COMMUNITY PASS 270: own geometry survives reload Plataforma logística
+[Info   :Community QA] COMMUNITY QA MECHANICS PASSED: 270 checks; save/load, six systems and physical routes.
+[Info   :Community QA] COMMUNITY CAPTURE SurveillanceRadar
+[Info   :Community QA] COMMUNITY CAPTURE DefenseTurret
+[Info   :Community QA] COMMUNITY CAPTURE PatrolDepot
+[Info   :Community QA] COMMUNITY CAPTURE LogisticsHub
+[Info   :Community QA] COMMUNITY CAPTURE FreightWarehouse
+[Info   :Community QA] COMMUNITY CAPTURE ExpeditionCenter
+[Info   :Community QA] COMMUNITY CAPTURE ExpeditionBeacon
+[Info   :Community QA] COMMUNITY CAPTURE EmergencyHospital
+[Info   :Community QA] COMMUNITY CAPTURE RescueHangar
+[Info   :Community QA] COMMUNITY CAPTURE EmergencyShelter
+[Info   :Community QA] COMMUNITY CAPTURE PrivateResidence
+[Info   :Community QA] COMMUNITY CAPTURE Academy
+[Info   :Community QA] COMMUNITY CAPTURE CommunityCafe
+[Info   :Community QA] COMMUNITY CAPTURE TradeTerminal
+[Info   :Community QA] COMMUNITY CAPTURE ExportDock
+[Info   :Community QA] COMMUNITY CAPTURE SecurityCommand
+[Info   :Community QA] COMMUNITY CAPTURE EmergencyHospital-inside
+[Info   :Community QA] COMMUNITY CAPTURE PrivateResidence-inside
+[Info   :Community QA] COMMUNITY CAPTURE Academy-inside
+[Info   :Community QA] COMMUNITY CAPTURE LogisticsHub-inside
+[Info   :Community QA] COMMUNITY CAPTURE CommunityCafe-inside
+[Info   :Community QA] COMMUNITY CAPTURE interface-0
+[Info   :Community QA] COMMUNITY CAPTURE interface-1
+[Info   :Community QA] COMMUNITY CAPTURE interface-2
+[Info   :Community QA] COMMUNITY CAPTURE interface-3
+[Info   :Community QA] COMMUNITY CAPTURE interface-4
+[Info   :Community QA] COMMUNITY CAPTURE interface-5
+[Info   :Community QA] COMMUNITY QA PASSED: 270 checks; 27 colony screenshots; 37 model renders; isolated profile.
